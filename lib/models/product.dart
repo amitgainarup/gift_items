@@ -23,7 +23,7 @@ List<Product> products = [
       price: 250,
       origin: "BD",
       description: dummyText,
-      image: "assets/images/1.jpg",
+      image: "assets/images/1.png",
       color: Color(0xFFCCB28D)),
   Product(
       id: 2,
@@ -31,7 +31,7 @@ List<Product> products = [
       price: 300,
       origin: "USA",
       description: dummyText,
-      image: "assets/images/2.jpg",
+      image: "assets/images/2.png",
       color: Color(0xFFF5E773)),
   Product(
       id: 3,
@@ -39,7 +39,7 @@ List<Product> products = [
       price: 350,
       origin: "CN",
       description: dummyText,
-      image: "assets/images/3.jpg",
+      image: "assets/images/3.png",
       color: Color(0xFF9ABD44)),
   Product(
       id: 4,
@@ -47,7 +47,7 @@ List<Product> products = [
       price: 250,
       origin: "BD",
       description: dummyText,
-      image: "assets/images/4.jpg",
+      image: "assets/images/4.png",
       color: Color(0xFF70E66C)),
   Product(
       id: 5,
@@ -55,7 +55,7 @@ List<Product> products = [
       price: 600,
       origin: "USA",
       description: dummyText,
-      image: "assets/images/5.jpg",
+      image: "assets/images/5.png",
       color: Color(0xFFFB7883)),
   Product(
     id: 6,
@@ -63,7 +63,7 @@ List<Product> products = [
     price: 250,
     origin: "IND",
     description: dummyText,
-    image: "assets/images/6.jpg",
+    image: "assets/images/6.png",
     color: Color(0xFFBA855A),
   ),
   Product(
@@ -72,7 +72,7 @@ List<Product> products = [
     price: 180,
     origin: "BD",
     description: dummyText,
-    image: "assets/images/7.jpg",
+    image: "assets/images/7.png",
     color: Color(0xFFF7EF8D),
   ),
   Product(
@@ -81,7 +81,7 @@ List<Product> products = [
     price: 150,
     origin: "BD",
     description: dummyText,
-    image: "assets/images/8.jpg",
+    image: "assets/images/8.png",
     color: Color(0xFFF7EF8D),
   ),
   Product(
@@ -90,7 +90,7 @@ List<Product> products = [
     price: 200,
     origin: "USA",
     description: dummyText,
-    image: "assets/images/9.jpg",
+    image: "assets/images/9.png",
     color: Color(0xFFF2B576),
   ),
   Product(
@@ -99,7 +99,7 @@ List<Product> products = [
     price: 200,
     origin: "CN",
     description: dummyText,
-    image: "assets/images/10.jpg",
+    image: "assets/images/10.png",
     color: Color(0xFFF2B576),
   ),
   Product(
@@ -108,7 +108,7 @@ List<Product> products = [
     price: 500,
     origin: "CN",
     description: dummyText,
-    image: "assets/images/11.jpg",
+    image: "assets/images/11.png",
     color: Color(0xFFE26B40),
   ),
   Product(
@@ -117,7 +117,7 @@ List<Product> products = [
     price: 600,
     origin: "USA",
     description: dummyText,
-    image: "assets/images/12.jpg",
+    image: "assets/images/12.png",
     color: Color(0xFFEB9392),
   ),
   Product(
@@ -126,7 +126,7 @@ List<Product> products = [
     price: 500,
     origin: "CN",
     description: dummyText,
-    image: "assets/images/13.jpg",
+    image: "assets/images/13.png",
     color: Color(0xFFEB9392),
   ),
   Product(
@@ -135,7 +135,7 @@ List<Product> products = [
     price: 400,
     origin: "BD",
     description: dummyText,
-    image: "assets/images/14.jpg",
+    image: "assets/images/14.png",
     color: Color(0xFFAAC585),
   ),
 ];
