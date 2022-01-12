@@ -24,7 +24,7 @@ List<Product> products = [
       origin: "BD",
       description: dummyText,
       image: "assets/images/1.png",
-      color: Color(0xFFCCB28D)),
+      color: Color(0xFF6F787D)),
   Product(
       id: 2,
       title: "Rose Gifts",
@@ -32,7 +32,7 @@ List<Product> products = [
       origin: "USA",
       description: dummyText,
       image: "assets/images/2.png",
-      color: Color(0xFFF5E773)),
+      color: Color(0xFF141518)),
   Product(
       id: 3,
       title: "Doll",
@@ -40,7 +40,7 @@ List<Product> products = [
       origin: "CN",
       description: dummyText,
       image: "assets/images/3.png",
-      color: Color(0xFF9ABD44)),
+      color: Color(0xFF712C1D)),
   Product(
       id: 4,
       title: "Gift",
@@ -48,7 +48,7 @@ List<Product> products = [
       origin: "BD",
       description: dummyText,
       image: "assets/images/4.png",
-      color: Color(0xFF70E66C)),
+      color: Color(0xFFAA220A)),
   Product(
       id: 5,
       title: "Rose",
@@ -56,7 +56,7 @@ List<Product> products = [
       origin: "USA",
       description: dummyText,
       image: "assets/images/5.png",
-      color: Color(0xFFFB7883)),
+      color: Color(0xFFF80205)),
   Product(
     id: 6,
     title: "Toy",
@@ -64,7 +64,7 @@ List<Product> products = [
     origin: "IND",
     description: dummyText,
     image: "assets/images/6.png",
-    color: Color(0xFFBA855A),
+    color: Color(0xFF6A035B),
   ),
   Product(
     id: 7,
@@ -73,7 +73,7 @@ List<Product> products = [
     origin: "BD",
     description: dummyText,
     image: "assets/images/7.png",
-    color: Color(0xFFF7EF8D),
+    color: Color(0xFF5327E0),
   ),
   Product(
     id: 8,
@@ -82,7 +82,7 @@ List<Product> products = [
     origin: "BD",
     description: dummyText,
     image: "assets/images/8.png",
-    color: Color(0xFFF7EF8D),
+    color: Color(0xFF63D3FA),
   ),
   Product(
     id: 9,
@@ -91,7 +91,7 @@ List<Product> products = [
     origin: "USA",
     description: dummyText,
     image: "assets/images/9.png",
-    color: Color(0xFFF2B576),
+    color: Color(0xFF03381B),
   ),
   Product(
     id: 10,
@@ -100,7 +100,7 @@ List<Product> products = [
     origin: "CN",
     description: dummyText,
     image: "assets/images/10.png",
-    color: Color(0xFFF2B576),
+    color: Color(0xFF139F02),
   ),
   Product(
     id: 799,
@@ -109,7 +109,7 @@ List<Product> products = [
     origin: "CN",
     description: dummyText,
     image: "assets/images/11.png",
-    color: Color(0xFFE26B40),
+    color: Color(0xFFC90F04),
   ),
   Product(
     id: 12,
@@ -118,7 +118,7 @@ List<Product> products = [
     origin: "USA",
     description: dummyText,
     image: "assets/images/12.png",
-    color: Color(0xFFEB9392),
+    color: Color(0xFF0178C7),
   ),
   Product(
     id: 13,
@@ -127,7 +127,7 @@ List<Product> products = [
     origin: "CN",
     description: dummyText,
     image: "assets/images/13.png",
-    color: Color(0xFFEB9392),
+    color: Color(0xFFD62862),
   ),
   Product(
     id: 14,
@@ -136,7 +136,7 @@ List<Product> products = [
     origin: "BD",
     description: dummyText,
     image: "assets/images/14.png",
-    color: Color(0xFFAAC585),
+    color: Color(0xFFFE5200),
   ),
   Product(
       id: 15,
