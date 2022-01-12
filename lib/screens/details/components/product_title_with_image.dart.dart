@@ -48,6 +48,14 @@ class ProductTitleWithImage extends StatelessWidget {
                 ),
               ),
               SizedBox(width: kDefaultPaddin),
+              Expanded(
+                child: Image.asset(
+                  product!.image!,
+                  height: 200,
+                  width: 200,
+                  alignment: Alignment.centerRight,
+                ),
+              ),
             ],
           ),
         ],
